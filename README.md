@@ -1,5 +1,5 @@
 ### 👋 I am @Aghavali9
-🌱 I’m currently learning Pyhton and C  
+🌱 I’m currently learning Pyhton & C  
 ⚡ Fun fact: I brew excellent coffee :coffee:
 
 <h3 align="left">Languages & Tools:</h3>
