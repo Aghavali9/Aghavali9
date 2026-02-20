@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm @Aghavali9
 
-- 👀 I'm interested in C, sensors, LoRa, smart cities, and smart agriculture
+- 👀 I'm interested in bare-metal C, sensors, LoRa, smart cities, and Agriculture 4.0
 - 🌱 I'm currently learning Rust & Go
 - 👯 I'm looking to collaborate on open-source embedded, IoT, or systems programming projects
-- 💬 Ask me about C, sensors, or LoRa
+- 💬 Ask me about C or sensors
 - 🖊️ btw, I use nvim
 - ⚡ Fun fact: I brew excellent coffee ☕
 
